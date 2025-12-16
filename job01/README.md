@@ -74,4 +74,4 @@ docker image prune -a
 
 <!-- Forcer la suppression d'une image -->
 
-docker rmi -f (-)
+docker rmi -f
