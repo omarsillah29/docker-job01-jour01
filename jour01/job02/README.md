@@ -35,3 +35,8 @@ refaites les tests et modifications sur celle-ci (citez l’auteur
 de l’image d’origine dans la page) -->
 
 ![alt text](image-6.png)
+
+<!-- Publier sur votre Docker l’image modifié du membre de votre
+promo -->
+
+![alt text](image-7.png)
