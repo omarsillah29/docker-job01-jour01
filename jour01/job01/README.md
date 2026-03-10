@@ -1,44 +1,44 @@
 <!-- Commande docker details -->
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 <!--Commande docker info -->
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
 
 <!-- Commande docker ps -->
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 <!-- Commande docker images -->
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 <!-- Commande docker run -->
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 <!-- Commande docker stop -->
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 <!-- Commande docker pull -->
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 <!-- Commande docker images -->
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 <!-- Commande docker stop -->
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 <!-- Commande docker rmi images -->
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
 <!-- COmmande supprimer conteneur specifique -->
 
