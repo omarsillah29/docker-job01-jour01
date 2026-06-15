@@ -1,5 +1,10 @@
 <?php
-$file = __DIR__ . '/results.json';
+$dataDir = __DIR__ . '/data';
+$file = $dataDir . '/results.json';
+
+if (!is_dir($dataDir)) {
+    mkdir($dataDir, 0777, true);
+}
 
 // Lire les données envoyées
 $data = json_decode(file_get_contents('php://input'), true);

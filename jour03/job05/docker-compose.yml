@@ -1,0 +1,11 @@
+services:
+  tic-tac-toe:
+    build: .
+    container_name: tic-tac-toe
+    ports:
+      - "8080:80"
+    volumes:
+      - tic-tac-toe-data:/var/www/html/data
+
+volumes:
+  tic-tac-toe-data:

@@ -10,11 +10,12 @@ default.conf: pour la configuration du lancement
 Dockerfile: pour les instruction de buld de l'image
 Faire un build de l'image `docker build -t image`
 ![output](./images/build-.png)
-faire un Run `docker run -d -p 8080:80 --name tic-tac-toe tic-tok-toe`
+faire un Run avec volume `docker compose up -d --build`
 ![output](./images/lancement.png)
 
 ## RENDU:
 ![rendu](./images/rendu.png)
 
 ## VOLUME:
+Le volume nommé `tic-tac-toe-data` garde `results.json` même après suppression du conteneur.
 ![rendu](./images/volume.png)
